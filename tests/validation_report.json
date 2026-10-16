@@ -1,0 +1,27 @@
+{
+  "pagesTested": [
+    {
+      "name": "home",
+      "status": 200
+    },
+    {
+      "name": "apartments",
+      "status": 200
+    },
+    {
+      "name": "apartment_011",
+      "status": 200
+    },
+    {
+      "name": "contact",
+      "status": 200
+    }
+  ],
+  "failedRequests": [],
+  "consoleErrors": [],
+  "interactionsPassed": [
+    "Day/Night switcher: Clicked by night, rendered dark visuals",
+    "Book a Call CTA Modal: Opened successfully with form inputs",
+    "Apartments dynamic filter: Clicked filter trigger successfully"
+  ]
+}

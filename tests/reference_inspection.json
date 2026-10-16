@@ -1,0 +1,38 @@
+{
+  "url": "https://www.era-residence.com/",
+  "timestamp": "2026-10-14T12:00:18.062Z",
+  "routesFound": [
+    "https://www.era-residence.com/#",
+    "https://www.era-residence.com/#hero",
+    "https://www.era-residence.com/apartments",
+    "https://www.era-residence.com/contact",
+    "https://www.era-residence.com/apartments?type=ground-floor-basement",
+    "https://www.era-residence.com/apartments?type=ground-floor",
+    "https://www.era-residence.com/apartments?type=penthouse-duplex",
+    "https://www.era-residence.com/"
+  ],
+  "techStack": {
+    "generator": null,
+    "webflow": true,
+    "jquery": "3.5.1",
+    "lenis": true,
+    "gsap": true,
+    "slater": true,
+    "bodyClasses": "body",
+    "htmlAttributes": [
+      "data-wf-domain=\"www.era-residence.com\"",
+      "data-wf-page=\"6a068da7ad91b057365bf968\"",
+      "data-wf-site=\"6a068da7ad91b057365bf967\"",
+      "lang=\"en\"",
+      "class=\"w-mod-js wf-ambroisefrancoisstd-n4-active wf-sloopscriptthree-n4-active wf-active lenis lenis-stopped\"",
+      "style=\"--_100svh: 900px; --scrollbar-width: 0px; overflow: hidden;\""
+    ]
+  },
+  "assetsFound": {
+    "stylesheets": [],
+    "scripts": [],
+    "fonts": []
+  },
+  "navigationItems": [],
+  "interactiveElements": []
+}

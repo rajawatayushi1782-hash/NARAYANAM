@@ -1,0 +1,19 @@
+{
+  "name": "era-residence-replica",
+  "version": "1.0.0",
+  "description": "Pixel-perfect recreation of ERA Residence (https://www.era-residence.com/)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "node tests/validate.js",
+    "test:validation": "node tests/validate.js",
+    "test:inspect": "node tests/inspect_reference.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "playwright-core": "^1.45.0"
+  }
+}
